@@ -4,8 +4,8 @@ A structured NeetCode 150 tracking system organized by patterns for placement pr
 
 ## Progress
 
-- Completed: 1/170
-- Percentage: 0.59%
+- Completed: 1/148
+- Percentage: 0.68%
 
 ## Full Progress Tracker
 

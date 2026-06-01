@@ -1,6 +1,6 @@
 # NeetCode 150 Progress Tracker
 
-## 1 Arrays Hashing
+## 01 Arrays Hashing
 
 - [x] Contains Duplicate
 - [ ] Encode and Decode Strings
@@ -12,7 +12,7 @@
 - [ ] Valid Anagram
 - [ ] Valid Sudoku
 
-## 2 Two Pointers
+## 02 Two Pointers
 
 - [ ] Container With Most Water
 - [ ] Three Sum
@@ -20,7 +20,7 @@
 - [ ] Two Sum II
 - [ ] Valid Palindrome
 
-## 3 Sliding Window
+## 03 Sliding Window
 
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Longest Repeating Character Replacement
@@ -29,7 +29,7 @@
 - [ ] Permutation in String
 - [ ] Sliding Window Maximum
 
-## 4 Stack
+## 04 Stack
 
 - [ ] Car Fleet
 - [ ] Daily Temperatures
@@ -39,7 +39,7 @@
 - [ ] Min Stack
 - [ ] Valid Parentheses
 
-## 5 Binary Search
+## 05 Binary Search
 
 - [ ] Binary Search
 - [ ] Find Minimum in Rotated Sorted Array
@@ -49,7 +49,7 @@
 - [ ] Search in Rotated Sorted Array
 - [ ] Time Based Key Value Store
 
-## 6 Linked List
+## 06 Linked List
 
 - [ ] Add Two Numbers
 - [ ] Copy List with Random Pointer
@@ -63,7 +63,7 @@
 - [ ] Reverse Linked List
 - [ ] Reverse Nodes in K Group
 
-## 7 Trees
+## 07 Trees
 
 - [ ] Balanced Binary Tree
 - [ ] Binary Tree Level Order Traversal
@@ -81,13 +81,13 @@
 - [ ] Subtree of Another Tree
 - [ ] Validate Binary Search Tree
 
-## 8 Tries
+## 08 Tries
 
 - [ ] Design Add and Search Words Data Structure
 - [ ] Implement Trie
 - [ ] Word Search II
 
-## 9 Heap Priority Queue
+## 09 Heap Priority Queue
 
 - [ ] Design Twitter
 - [ ] Find Median from Data Stream
@@ -199,36 +199,9 @@
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 
-## 18 1D 2D DP
-
-- [ ] Best Time to Buy and Sell Stock with Cooldown
-- [ ] Burst Balloons
-- [ ] Climbing Stairs
-- [ ] Coin Change
-- [ ] Coin Change II
-- [ ] Decode Ways
-- [ ] Distinct Subsequences
-- [ ] Edit Distance
-- [ ] House Robber
-- [ ] House Robber II
-- [ ] Interleaving String
-- [ ] Longest Common Subsequence
-- [ ] Longest Increasing Subsequence
-- [ ] Longest Palindromic Substring
-- [ ] Maximum Product Subarray
-- [ ] Min Cost Climbing Stairs
-- [ ] Palindromic Substrings
-- [ ] Partition Equal Subset Sum
-- [ ] Regular Expression Matching
-- [ ] Target Sum
-- [ ] Unique Paths
-- [ ] Word Break
-
-
-
 ---
 
 ## Progress
 
-- Completed: 1/170
-- Percentage: 0.59%
+- Completed: 1/148
+- Percentage: 0.68%
