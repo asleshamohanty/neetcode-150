@@ -69,6 +69,7 @@
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Binary Tree Right Side View
+- [ ] Binary Tree Zigzag Level Order Traversal
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Count Good Nodes in Binary Tree
 - [ ] Diameter of Binary Tree
@@ -123,6 +124,7 @@
 - [ ] Rotting Oranges
 - [ ] Surrounded Regions
 - [ ] Walls and Gates
+- [ ] Word Ladder
 
 ## 12 Advanced Graphs
 
@@ -133,7 +135,35 @@
 - [ ] Reconstruct Itinerary
 - [ ] Swim in Rising Water
 
-## 13 Greedy
+## 13 1D Dynamic Programming
+
+- [ ] Climbing Stairs
+- [ ] Coin Change
+- [ ] Decode Ways
+- [ ] House Robber
+- [ ] House Robber II
+- [ ] Longest Increasing Subsequence
+- [ ] Longest Palindromic Substring
+- [ ] Maximum Product Subarray
+- [ ] Min Cost Climbing Stairs
+- [ ] Palindromic Substrings
+- [ ] Partition Equal Subset Sum
+- [ ] Word Break
+
+## 14 2D Dynamic Programming
+
+- [ ] Best Time to Buy and Sell Stock with Cooldown
+- [ ] Burst Balloons
+- [ ] Coin Change II
+- [ ] Distinct Subsequences
+- [ ] Edit Distance
+- [ ] Interleaving String
+- [ ] Longest Common Subsequence
+- [ ] Regular Expression Matching
+- [ ] Target Sum
+- [ ] Unique Paths
+
+## 15 Greedy
 
 - [ ] Gas Station
 - [ ] Hand of Straights
@@ -144,7 +174,7 @@
 - [ ] Partition Labels
 - [ ] Valid Parenthesis String
 
-## 14 Intervals
+## 16 Intervals
 
 - [ ] Insert Interval
 - [ ] Meeting Rooms
@@ -152,41 +182,6 @@
 - [ ] Merge Intervals
 - [ ] Minimum Interval to Include Each Query
 - [ ] Non Overlapping Intervals
-
-## 15 Dynamic Programming
-
-- [ ] Best Time to Buy and Sell Stock with Cooldown
-- [ ] Burst Balloons
-- [ ] Climbing Stairs
-- [ ] Coin Change
-- [ ] Coin Change II
-- [ ] Decode Ways
-- [ ] Distinct Subsequences
-- [ ] Edit Distance
-- [ ] House Robber
-- [ ] House Robber II
-- [ ] Interleaving String
-- [ ] Longest Common Subsequence
-- [ ] Longest Increasing Subsequence
-- [ ] Longest Palindromic Substring
-- [ ] Maximum Product Subarray
-- [ ] Min Cost Climbing Stairs
-- [ ] Palindromic Substrings
-- [ ] Partition Equal Subset Sum
-- [ ] Regular Expression Matching
-- [ ] Target Sum
-- [ ] Unique Paths
-- [ ] Word Break
-
-## 16 Bit Manipulation
-
-- [ ] Counting Bits
-- [ ] Missing Number
-- [ ] Number of 1 Bits
-- [ ] Reverse Bits
-- [ ] Reverse Integer
-- [ ] Single Number
-- [ ] Sum of Two Integers
 
 ## 17 Math Geometry
 
@@ -199,9 +194,19 @@
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 
+## 18 Bit Manipulation
+
+- [ ] Counting Bits
+- [ ] Missing Number
+- [ ] Number of 1 Bits
+- [ ] Reverse Bits
+- [ ] Reverse Integer
+- [ ] Single Number
+- [ ] Sum of Two Integers
+
 ---
 
 ## Progress
 
-- Completed: 1/148
-- Percentage: 0.68%
+- Completed: 1/150
+- Percentage: 0.67%
