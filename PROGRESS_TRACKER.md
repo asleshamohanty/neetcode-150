@@ -4,11 +4,11 @@
 
 - [x] Contains Duplicate
 - [ ] Encode and Decode Strings
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Longest Consecutive Sequence
 - [ ] Product of Array Except Self
 - [ ] Top K Frequent Elements
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Valid Anagram
 - [ ] Valid Sudoku
 
@@ -208,5 +208,5 @@
 
 ## Progress
 
-- Completed: 1/150
-- Percentage: 0.67%
+- Completed: 3/150
+- Percentage: 2.0%

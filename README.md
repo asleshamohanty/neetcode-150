@@ -1,64 +1,14 @@
-# neetcode 150 dsa tracker
+# NeetCode 150 DSA Tracker
 
-a structured neetcode 150 tracking system organized by patterns for placement preparation.
+A structured NeetCode 150 tracking system organized by patterns for placement preparation.
 
-## how to use
+## Progress
 
-### 1. solve problems
+- Completed: 3/150
+- Percentage: 2.0%
 
-go into the corresponding topic folder and solve the problem inside the `.py` file.
+## Full Progress Tracker
 
-example:
+Check detailed tracking here:
 
-```python id="6whwxt"
-class Solution:
-    def twoSum(self, nums, target):
-        pass
-```
-
-### 2. mark a problem as done
-
-add:
-
-```python id="mjlwmn"
-# status: done
-```
-
-inside the file after solving it.
-
-example:
-
-```python id="2ysnzs"
-# status: done
-# difficulty: Easy
-# attempts: 1
-# notes:
-# link: https://leetcode.com/problems/two-sum/
-
-class Solution:
-    pass
-```
-
-### 3. update progress tracker
-
-run:
-
-```bash id="aydmqx"
-python3 tracker.py
-```
-
-this automatically:
-
-* updates progress
-* checks completed problems
-* updates `PROGRESS_TRACKER.md`
-* calculates completion percentage
-
-## my progress
-
-* completed: 1/150
-* percentage: 0.67%
-
-## full progress tracker
-
-[view progress tracker](PROGRESS_TRACKER.md)
+PROGRESS_TRACKER.md
